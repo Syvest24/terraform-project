@@ -1,5 +1,6 @@
 Terraform multi-AZ architecture with CI pipeline.
 
+<img width="1655" height="2339" alt="image" src="https://github.com/user-attachments/assets/74b41017-8df2-492d-b841-679c6249e3e8" />
 
 
 A **production-ready AWS architecture** deployed using Terraform with:
